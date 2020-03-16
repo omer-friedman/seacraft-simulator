@@ -61,5 +61,3 @@ updates ships location and attacks ship if an attack request was set
   * if current port was set a docking port: ship's status is set to "stopped"
   * if visit time reached 3: closest port is set as next destination and ship prepares for sail
 * if ship's status is stopped or out of fuel: do nothing
-# Class diagram
-![uml](https://github.com/mantinband/seacraft-simulation/blob/master/class-uml.jpg?raw=true)
